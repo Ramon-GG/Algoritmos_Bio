@@ -4,7 +4,8 @@ En cada iteración se imprime el mejor resultado de esa iteración
 y el mejor global encontrado hasta el momento.
 
 Presenta:Juan Ramon Rodríguez Armas
-
+Profesor: Pablo Salazar
+Materia: Algoritmos bioinspirados
 Link del claude https://claude.ai/share/2f7b6bcc-2b7f-4de5-ba01-7101427234ec
 """
 import math
